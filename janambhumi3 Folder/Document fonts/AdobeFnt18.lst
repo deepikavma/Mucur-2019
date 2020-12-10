@@ -1,0 +1,47 @@
+%!Adobe-FontList 1.18
+%Locale:0x4009
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KrutiDev010
+FamilyName:Kruti Dev 010
+StyleName:Regular
+FullName:Kruti Dev 010
+MenuName:Kruti Dev 010
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Mucur\packages\janambhumi3 Folder\Document fonts\K010.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:57588
+FileModTime:905412330
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kruti Dev 010
+NameArray:0,Win,1,Kruti Dev 010
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KrutiDev500
+FamilyName:Kruti Dev 500
+StyleName:Regular
+FullName:Kruti Dev 500
+MenuName:Kruti Dev 500
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Mucur\packages\janambhumi3 Folder\Document fonts\Kruti Dev 500.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:55536
+FileModTime:1368028982
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kruti Dev 500
+NameArray:0,Win,1,Kruti Dev 500
+%EndFont
+

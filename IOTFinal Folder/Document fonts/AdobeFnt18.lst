@@ -1,0 +1,50 @@
+%!Adobe-FontList 1.18
+%Locale:0x4009
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Elephant-Regular
+FamilyName:Elephant
+StyleName:Regular
+FullName:Elephant
+MenuName:Elephant
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Mucur\packages\IOTFinal Folder\Document fonts\ELEPHNT.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:51652
+FileModTime:1476181058
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Elephant
+NameArray:0,Win,1,Elephant
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Mucur\packages\IOTFinal Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218640
+FileModTime:1475689752
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

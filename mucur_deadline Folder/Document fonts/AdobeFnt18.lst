@@ -1,0 +1,116 @@
+%!Adobe-FontList 1.18
+%Locale:0x4009
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Mucur\packages\mucur_deadline Folder\Document fonts\calibri.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:1572076
+FileModTime:1523489648
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+FullName:Calibri Bold
+MenuName:Calibri
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:F:\Mucur\packages\mucur_deadline Folder\Document fonts\calibrib.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:1540504
+FileModTime:1523489648
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri Bold
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GoudyStout
+FamilyName:Goudy Stout
+StyleName:Regular
+FullName:Goudy Stout
+MenuName:Goudy Stout
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Mucur\packages\mucur_deadline Folder\Document fonts\GOUDYSTO.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:55956
+FileModTime:1476181060
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Goudy Stout
+NameArray:0,Win,1,Goudy Stout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MaturaMTScriptCapitals
+FamilyName:Matura MT Script Capitals
+StyleName:Regular
+FullName:Matura MT Script Capitals
+MenuName:Matura MT Script Capitals
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Mucur\packages\mucur_deadline Folder\Document fonts\MATURASC.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:51296
+FileModTime:1476181060
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Matura MT Script Capitals
+NameArray:0,Win,1,Matura MT Script Capitals
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Mucur\packages\mucur_deadline Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218640
+FileModTime:1475689752
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
